@@ -10,5 +10,5 @@ Pueden hacer lo que quieran....
 README.md modificado desde la interfaz web de GitHub
 
 # Hola mundo
-Estos son cambios nuevos desde el repositorio local.
+Esto lo acabo de escribir desde visual studio (local).
 Esto lo acabo de escribir desde GitHub.
