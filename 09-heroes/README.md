@@ -11,4 +11,4 @@ README.md modificado desde la interfaz web de GitHub
 
 # Hola mundo
 Estos son cambios nuevos desde el repositorio local.
-Estos son cambios nuevos desde Github.
+Esto lo acabo de escribir desde GitHub.
